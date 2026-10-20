@@ -2,11 +2,8 @@
 
 **Tinkerer** · DeepSeek Harness (DSH) 插件开发者 · macOS / SwiftUI / JS / TS
 
-<a href="https://ghfind.com/u/bittersmilezzz?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/bittersmilezzz?theme=dark&lang=zh" />
-    <img src="https://ghfind.com/api/card/mini/bittersmilezzz?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
-  </picture>
+<a href="https://bittersmilezzz.github.io/">
+  <img src="https://bittersmilezzz.github.io/assets/preview.png" alt="fangshoufanji · 个人作品集 — 把问题做成工具" width="440" />
 </a>
 
 ---
@@ -47,4 +44,4 @@
 
 ---
 
-评分数据来源：[ghfind.com/u/bittersmilezzz](https://ghfind.com/u/bittersmilezzz)（自动更新）
+🌐 个人作品集：[bittersmilezzz.github.io](https://bittersmilezzz.github.io/) — 把问题做成工具。
